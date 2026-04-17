@@ -2,3 +2,4 @@ bing.com##.mmaAdCard
 ~bing.com,~dogdrip.net,~smsonline.cloud##div[id^="img_"][style$="2147483647; justify-content: center;"]
 bing.com##li[class=""][data-bm][style*="margin-bottom"]
 bing.com##li[class="b_algo"][data-bm][style*="margin-bottom"]
+bing.com##.b_ad
