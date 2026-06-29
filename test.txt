@@ -4,3 +4,4 @@ bing.com##li[class=""][data-bm][style*="margin-bottom"]
 bing.com##li[class="b_algo"][data-bm][style*="margin-bottom"]
 bing.com##.b_ad
 bing.com##.b_algo
+bing.com##.b_add
