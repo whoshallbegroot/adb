@@ -5,3 +5,5 @@ bing.com##li[class="b_algo"][data-bm][style*="margin-bottom"]
 bing.com##.b_ad
 bing.com##.b_algo
 bing.com##.b_add
+rewards.bing.com###cookieConsentContainer
+bing.com###cookieConsentContainer
