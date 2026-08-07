@@ -9,3 +9,4 @@ bing.com##.sb_add
 rewards.bing.com###cookieConsentContainer
 bing.com###cookieConsentContainer
 google.com#.ad
+bing.com##.b_cookieConsent
